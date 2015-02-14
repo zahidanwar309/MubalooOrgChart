@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header">#00a6c3</color>
+    <color name="bg_color">#b9b9b9</color>
+    <color name="tabTransparent">#10ffffff</color>
+    
+    
+    <color name="blue">#007DB8</color>
+
+    
+    <color name="orange_light">#F17D05</color>
+    <color name="orange_dark">#9F5200</color>
+    
+    <color name="blue_button_pressed">#007DB8</color>	<!-- Blue toolbar button Pressed-->
+    <color name="green_button_pressed">#265A05</color>	<!-- Blue toolbar button Pressed-->
+    
+    <color name="green_light">#73c01a</color> <!--Green/Pink button toolbar button -->
+    <color name="green_dark">#61BC0F</color>  <!--Green/Pink button toolbar button -->
+    <color name="button_dark">#005B88</color> <!-- Light Blue/Dark Blue toolbar button back color-->
+      
+    <color name="red">#FF0000</color>
+    <color name="gray">#A6A6A6</color>
+    <color name="green">#82B337</color> 
+    <color name="orange">#ef8d00</color> 
+    <color name="light_grey">#EEEEEE</color>
+    <color name="extra_light_grey">#FCFAFA</color>
+    <color name="purple">#DDDD00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    
+    <color name="odd_color">#DEDEDE</color>
+    <color name="even_color">#FFFEFE</color>
+    <color name="separator_grey">#ececec</color>
+    <color name="toolbar_light">#56A8CF</color> 
+    <color name="toolbar_dark">#007DB8</color> 
+    <color name="toolbar_darker">#004CC5</color>
+    <color name="transparent">#00000000</color>
+</resources>

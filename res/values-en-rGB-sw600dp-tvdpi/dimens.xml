@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_title_bar_height">46sp</dimen>
+    <dimen name="tab_host_height">56sp</dimen>
+    <dimen name="top_title_bar">24sp</dimen> <!-- To title bar -->
+    <dimen name="top_title_bar_right">20sp</dimen>
+    <dimen name="bottom_tab_bar_row">14sp</dimen> <!-- bottom tab host -->
+    
+    <dimen name="tablet_left_row_height">42sp</dimen>
+    <dimen name="tablet_left_row_height_without_image">42sp</dimen>
+    <dimen name="tablet_home_page_login_createnew_button_height">60sp</dimen>
+    
+    <dimen name="top_bar_button_margin">5dp</dimen>
+    
+    
+    
+        <dimen name="row_height">60dp</dimen>
+    <dimen name="employee_details_row_height">30dp</dimen>
+    <dimen name="employee_details_view_text">20dp</dimen>
+    <dimen name="employee_details_view_image_height">80dp</dimen>
+    <dimen name="employee_details_view_image_width">80dp</dimen>
+    
+        <dimen name="image_width">45dp</dimen>
+    <dimen name="image_height">45dp</dimen>
+    <dimen name="image_separator">45dp</dimen>
+    
+     <dimen name="tablet_left_menu_width">340dp</dimen>
+     <dimen name="tablet_left_row_height">60sp</dimen>
+</resources>

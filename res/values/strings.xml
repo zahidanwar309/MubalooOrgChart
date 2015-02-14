@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="back_button">Back</string>
+    <string name="cancel_button">Cancel</string>
+    
+    <string name="app_name">MOC (Mubaloo Organizational Charts)</string>
+    <string name="url">http://mubaloo.com/dev/developerTestResources/team.json</string>
+    
+    <string name="employee_list_top_bar">List of Employees</string>
+    <string name="employee_details_top_bar">Employee Details</string>
+    <string name="user_id">User id: </string>
+    <string name="first_name">First name: </string>
+    <string name="last_name">Last name: </string>
+    <string name="position">Position: </string>
+    <string name="team_lead">Team leader: </string>
+    <string name="left_nav">Navigation1</string>
+    <string name="employee_chart_menu_title">Some title</string>
+    
+    <string name="internet_connection_alert_title">Internet connection error</string>
+    <string name="internet_connection_alert_message">We were unable to complete this action. Please ensure you are able to connect to the internet and try again.</string>
+</resources>
